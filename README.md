@@ -1,1 +1,9 @@
-# win-sports.m3u
+#EXTM3U
+#EXTINF:-1
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/131984
+#EXTINF:-1
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2683
+#EXTINF:-1
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/131983
+#EXTINF:-1
+http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/137967
